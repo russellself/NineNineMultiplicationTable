@@ -1,0 +1,2 @@
+# NineNineMultiplicationTable
+NineNineMultiplicationTable in some languages
